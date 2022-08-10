@@ -1,0 +1,62 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Montserrat, sans-serif;
+  }
+
+h1{
+  text-align: center;
+  margin-top: 50px;
+  color: #ff1700;
+  text-transform: uppercase;
+}
+
+.texto{
+    font-size: 22px;
+}
+
+
+.container{ 
+    position: relative;
+    margin: 70px auto;
+    width: 700px;
+    border: 3px solid #ff1700;
+    padding: 30px 30px 60px;
+}
+
+h3{
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+
+.icone{
+    width: 70px;
+    height: 55px;
+    text-align: center;
+    font-weight: 800;
+    font-size: 25px;
+    background-color: #ff1700;
+    color: #fff700;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: -30px;
+    padding-top: 15px;
+}
+
+.btn-fazer-pedido{
+    border: none;
+    border-radius: 5px;
+    color: #fff700;
+    font-weight: 800;
+    font-size: 18px;
+    background-color: #ff1700;
+    text-decoration: none;
+    width: 240px;
+    text-align: center;
+    padding: 15px;
+    position: absolute;
+    bottom: -30px;
+    right: 20px;
+}
+

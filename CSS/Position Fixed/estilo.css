@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.topo{
+    width: 100%;
+    background-color: #000;
+    border-bottom: 2px solid #d5960054;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: fixed;
+    top: 0;
+    text-align: center;
+}
+
+.topo h1{
+    color: #DAA520;
+}
+
+.topo p{
+    margin-top: 15px;
+}
+
+.topo a{
+    margin-right: 10px;
+    text-decoration: underline;
+    color: #DAA520;
+}
+
+.carro-bg{
+    width: 1400px;
+    height: 420px;
+    background-color: #000;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
